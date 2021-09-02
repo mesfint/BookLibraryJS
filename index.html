@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Book Library</title>
+    <!-- Material Design for Bootstrap fonts and icons -->
+    <link rel="stylesheet" href="primitive.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Book Library</h1>
+      <button id="bookadd_btn">Add Book</button>
+      <form>
+        <div class="form-group">
+          <input type="text" placeholder="Enter Title" id="title" />
+          <input type="text" placeholder="Enter Author" id="author" />
+          <input type="number" placeholder="Enter number of pages" id="pages" />
+          <input type="checkbox" id="read" /> Read
+          <input type="submit" value="submit" />
+        </div>
+      </form>
+      <div id="loading">
+        <img src="./book.gif" />
+      </div>
+      <div class="books"></div>
+      <p class="footer">
+        Developed by <a href="https://twitter.com/MesfinTe"> @mesfint </a>
+      </p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -4,7 +4,7 @@
 
 ## About This Project
 
-[BookLibrary](https://booklibraryjs.netlify.app/) is a Javascript Project from theodinproject's curriculum
+[BookLibrary](https://booklibraryjs.netlify.app/) is a Javascript Project from [theodinproject's](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/library) curriculum
 
 ## Features
 

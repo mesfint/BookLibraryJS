@@ -22,8 +22,8 @@
 
 # Development
 
-- Visual Studio
--Vanila JS
+-   Visual Studio
+-   Vanila JS
 
 2.  ### To run the project on local machine
 

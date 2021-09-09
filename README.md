@@ -2,6 +2,7 @@
 
 
 
+
 ## About This Project
 
 [BookLibrary](https://booklibraryjs.netlify.app/) is a Javascript Project from [theodinproject's](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/library) curriculum
@@ -25,7 +26,7 @@
 -   Visual Studio
 -   Vanila JS
 
-2.  ### To run the project on local machine
+ ### To run the project on local machine
 
 ```
 Clone the project into your local machine
